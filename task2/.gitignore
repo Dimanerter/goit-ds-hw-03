@@ -1,3 +1,5 @@
 poetry.lock
 .idea
 .gitiignore
+authors.json
+qoutes.json
